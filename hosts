@@ -1,0 +1,139 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+#Fuck CJ Marketing Start
+
+0.0.0.0 dongmansoft.com
+0.0.0.0 www.dongmansoft.com
+0.0.0.0 xmindchina.net
+0.0.0.0 www.xmindchina.net
+0.0.0.0 www.ntfsformac.cc
+0.0.0.0 www.makeding.com
+0.0.0.0 makeding.com
+0.0.0.0 vm.makeding.com
+0.0.0.0 www.bingdianhuanyuan.cn
+0.0.0.0 xia.bingdianhuanyuan.cn
+0.0.0.0 bingdianhuanyuan.cn
+0.0.0.0 huishenghuiying.com.cn
+0.0.0.0 www.huishenghuiying.com.cn
+0.0.0.0 xia.huishenghuiying.com.cn
+0.0.0.0 coreldrawchina.com
+0.0.0.0 xia.coreldrawchina.com
+0.0.0.0 www.coreldrawchina.com
+0.0.0.0 shankejingling.com
+0.0.0.0 www.shankejingling.com
+0.0.0.0 xia.shankejingling.com
+0.0.0.0 mairuan.com
+0.0.0.0 www.mairuan.com
+0.0.0.0 xia.mairuan.com
+0.0.0.0 logoshejishi.com
+0.0.0.0 www.logoshejishi.com
+0.0.0.0 xia.logoshejishi.com
+0.0.0.0 keyshot.cc
+0.0.0.0 xia.keyshot.cc
+0.0.0.0 www.keyshot.cc
+0.0.0.0 flstudiochina.com
+0.0.0.0 www.flstudiochina.com
+0.0.0.0 xia.flstudiochina.com
+0.0.0.0 ediuschina.com
+0.0.0.0 www.ediuschina.com
+0.0.0.0 xia.ediuschina.com
+0.0.0.0 vegaschina.cn
+0.0.0.0 www.vegaschina.cn
+0.0.0.0 xia.vegaschina.cn
+0.0.0.0 guitarpro.cc
+0.0.0.0 www.guitarpro.cc
+0.0.0.0 xia.guitarpro.cc
+0.0.0.0 www.xmindchina.cn
+0.0.0.0 xia.xmindchina.cn
+0.0.0.0 xmindchina.cn
+0.0.0.0 xmindchina.net
+0.0.0.0 www.xmindchina.net
+0.0.0.0 xia.xmindchina.net
+0.0.0.0 mindmanager.cc
+0.0.0.0 www.mindmanager.cc
+0.0.0.0 xia.mindmanager.cc
+0.0.0.0 kingdeecn.cn
+0.0.0.0 www.kingdeecn.cn
+0.0.0.0 xia.kingdeecn.cn
+0.0.0.0 xshellcn.com
+0.0.0.0 www.xshellcn.com
+0.0.0.0 xia.xshellcn.com
+0.0.0.0 imindmap.cc
+0.0.0.0 www.imindmap.cc
+0.0.0.0 xia.imindmap.cc
+0.0.0.0 abbyychina.com
+0.0.0.0 www.abbyychina.com
+0.0.0.0 xia.abbyychina.com
+0.0.0.0 bartender.cc
+0.0.0.0 www.bartender.cc
+0.0.0.0 xia.bartender.cc
+0.0.0.0 jihehuaban.com.cn
+0.0.0.0 www.jihehuaban.com.cn
+0.0.0.0 xia.jihehuaban.com.cn
+0.0.0.0 mathtype.cn
+0.0.0.0 www.mathtype.cn
+0.0.0.0 xia.mathtype.cn
+0.0.0.0 chemdraw.com.cn
+0.0.0.0 www.chemdraw.com.cn
+0.0.0.0 xia.chemdraw.com.cn
+0.0.0.0 mycleanmymac.com
+0.0.0.0 www.mycleanmymac.com
+0.0.0.0 xia.mycleanmymac.com
+0.0.0.0 ntfsformac.cn
+0.0.0.0 www.ntfsformac.cn
+0.0.0.0 xia.ntfsformac.cn
+0.0.0.0 parallelsdesktop.cn
+0.0.0.0 www.parallelsdesktop.cn
+0.0.0.0 xia.parallelsdesktop.cn
+0.0.0.0 beyondcompare.cc
+0.0.0.0 www.beyondcompare.cc
+0.0.0.0 xia.beyondcompare.cc
+0.0.0.0 easyrecoverychina.com
+0.0.0.0 www.easyrecoverychina.com
+0.0.0.0 xia.easyrecoverychina.com
+0.0.0.0 bingdianhuanyuan.cn
+0.0.0.0 www.bingdianhuanyuan.cn
+0.0.0.0 xia.bingdianhuanyuan.cn
+0.0.0.0 hypersnap.mairuan.com
+0.0.0.0 www.iconworkshop.cn
+0.0.0.0 iconworkshop.cn
+0.0.0.0 www.pdfexpert.cc
+0.0.0.0 xiazai.pdfexpert.cc
+0.0.0.0 www.zhzzx.com
+0.0.0.0 yihuifu.cn
+0.0.0.0 www.4009997658.com
+0.0.0.0 4009997658.com
+0.0.0.0 mairuanwang.com
+0.0.0.0 www.mairuanwang.com
+0.0.0.0 mairuan.com
+0.0.0.0 mairuan.cn
+0.0.0.0 mairuan.net
+0.0.0.0 mairuan.com.cn
+0.0.0.0 www.ntfsformac.cc
+0.0.0.0 xmindchina.net
+0.0.0.0 wm.makeding.com
+0.0.0.0 dongmansoft.com
+0.0.0.0 www.dongmansoft.com
+0.0.0.0 www.mycleanmymac.com
+
+#Fuck CJ Marketing End
