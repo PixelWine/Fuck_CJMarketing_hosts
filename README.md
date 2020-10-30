@@ -8,7 +8,7 @@
 
 # Update Notes:
 - 2020.10.2 从[企查查](https://www.qcc.com/product/b200f000-df73-4ada-a756-f752902ad4f0.html)找了一下思马公司的其他网站，emmmm，不得不说，思马公司的类似公司还特么挺多的，不找了！（有精力的老铁们可以帮个忙发个 issue【我tm作业还是很多啊！】）
-- 2020.10.2 Mark:帮个忙处理一下格式呗,[文件](https://www.pixelwine.top/cdn/hk/Chinaz_TXT/)已经预处理过了，只需要保留泛域名，统一解析到 0.0.0.0 这个地址就 OK 了.（直接发 issue 给我就行）【文件链接再来一遍：https://www.pixelwine.top/cdn/hk/Chinaz_TXT/ 】【Mark:突然发现链接失效了，低配服务器就是不稳定，哈哈】
+- 2020.10.2 Mark:帮个忙处理一下格式呗,[文件](https://github.com/FuckNoMotherCompanyAlliance/resources/blob/main/chinaz.txt)已经预处理过了，只需要保留泛域名，统一解析到 0.0.0.0 这个地址就 OK 了.（直接发 issue 给我就行）【文件链接再来一遍：https://github.com/FuckNoMotherCompanyAlliance/resources/blob/main/chinaz.txt 】【Mark:突然发现链接失效了，低配服务器就是不稳定，哈哈】
 # Thanks
 感谢知乎用户 [@不愿回锅的回锅肉](https://www.zhihu.com/people/bu-yuan-hui-guo-de-hui-guo-rou) [@发条船长](https://www.zhihu.com/people/x1a0n1an) [@WalkingDead](https://www.zhihu.com/people/chen-zhen-rong-8-26) [@啦啦啦](https://www.zhihu.com/people/gavinpenn) [@locrch](https://www.zhihu.com/people/locrch) [@杉木](https://www.zhihu.com/people/binsee) [@ZeroSimple](https://www.zhihu.com/people/zerosimple) [@MaiM](https://www.zhihu.com/people/cai-cai-15-47) 提供 hosts.
 
