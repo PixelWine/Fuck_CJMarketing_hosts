@@ -1,7 +1,7 @@
 # Fuck_CJMarketing_hosts
 ## 这里是一个 fuck 思杰马克丁所谓“官网”的 repo。
 这个 repo 的灵感来源是 [知乎](https://www.zhihu.com/question/46746200)
-这里的 hosts 会不时更新，因鄙人时间有限，无法抽出大量时间来更新，欢迎大家 pr 或者提 issue（<p style="color:#FF0000";>这句话俨然废话，根本没有人 pr 或 issue 啊！！！</p>）!
+这里的 hosts 会不时更新，因鄙人时间有限，无法抽出大量时间来更新，欢迎大家 pr 或者提 issue<font color='red'>（这句话俨然废话，根本没有人 pr 或 issue 啊！！！）</font>!
 # Update Notes:
 - 2020.10.2 从[企查查](https://www.qcc.com/product/b200f000-df73-4ada-a756-f752902ad4f0.html)找了一下思马公司的其他网站，emmmm，不得不说，思马公司的类似公司还特么挺多的，不找了！（有精力的老铁们可以帮个忙发个 issue【我tm作业还是很多啊！】）
 - 2020.10.2 Mark:帮个忙处理一下格式呗,[文件](https://www.pixelwine.top/cdn/hk/Chinaz_TXT/)已经预处理过了，只需要保留泛域名，统一解析到 0.0.0.0 这个地址就ojbk了.（直接发 issue 给我就行）【文件链接再来一遍：https://www.pixelwine.top/cdn/hk/Chinaz_TXT/ 】
