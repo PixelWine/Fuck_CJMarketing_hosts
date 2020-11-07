@@ -22,7 +22,7 @@ yeyulingfeng01
 
 @yimouleng 
 yimouleng
- IOS开发者乐园-扣群67784110
+ IOS开发者乐园-扣群[屏蔽信息]
 
 @cruits 
 cruits
@@ -122,8 +122,8 @@ SarinV
 备注：如果本 repo 因为思马公司举报而被封，可以访问这3个 forker 的 repo.
 
 # Contact Us
-[邮件地址已更新:team@pixelwine.com.cn](mailto:team@pixelwine.com.cn)
+[team@pixelwine.com.cn](mailto:team@pixelwine.com.cn)
 
 # 新的希望
-为了更好地 fuck 思马公司，我们在GitHub 上建立了一个 org ！欢迎加入！
+为了更好地 fuck 思马公司，我们在GitHub 上建立了一个 org ！欢迎联系 [team@pixelwine.com.cn](mailto:team@pixelwine.com.cn) 加入！
 [FuckNoMotherCompanyAlliance](https://github.com/FuckNoMotherCompanyAlliance)
