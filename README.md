@@ -7,7 +7,7 @@
 ```
 # Thanks
 知乎：
-[@不愿回锅的回锅肉](https://www.zhihu.com/people/bu-yuan-hui-guo-de-hui-guo-rou) [@发条船长](https://www.zhihu.com/people/x1a0n1an) [@WalkingDead](https://www.zhihu.com/people/chen-zhen-rong-8-26) [@啦啦啦](https://www.zhihu.com/people/gavinpenn) [@locrch](https://www.zhihu.com/people/locrch) [@杉木](https://www.zhihu.com/people/binsee) [@ZeroSimple](https://www.zhihu.com/people/zerosimple) [@MaiM](https://www.zhihu.com/people/cai-cai-15-47)
+[@不愿回锅的回锅肉](https://www.zhihu.com/people/bu-yuan-hui-guo-de-hui-guo-rou) [@发条船长](https://www.zhihu.com/people/x1a0n1an) [@WalkingDead](https://www.zhihu.com/people/chen-zhen-rong-8-26) [@啦啦啦](https://www.zhihu.com/people/gavinpenn) [@locrch](https://www.zhihu.com/people/locrch) [@杉木](https://www.zhihu.com/people/binsee) [@ZeroSimple](https://www.zhihu.com/people/zerosimple) [@MaiM](https://www.zhihu.com/people/cai-cai-15-47)  
 GitHub forkers:
 [@mytianya](https://github.com/mytianya/Fuck_CJMarketing_hosts)
 [@SarinV](https://github.com/SarinV/Fuck_CJMarketing_hosts)
