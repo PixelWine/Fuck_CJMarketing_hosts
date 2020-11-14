@@ -21,3 +21,6 @@ GitHub forkers:
 # 新的希望
 为了更好地 fuck 思马公司，我们在GitHub 上建立了一个 org ！欢迎联系 [team@pixelwine.com.cn](mailto:team@pixelwine.com.cn) 加入！
 [FuckNoMotherCompanyAlliance](https://github.com/FuckNoMotherCompanyAlliance)
+
+# Remarks
+- 为了不让这个 README 又臭又长，将一些内容移到了wiki里，更新也方便。[Stargazers](https://github.com/FuckNoMotherCompanyAlliance/Fuck_CJMarketing_hosts/wiki/stargazers);[Update Note](https://github.com/FuckNoMotherCompanyAlliance/Fuck_CJMarketing_hosts/wiki/Update-Note)
